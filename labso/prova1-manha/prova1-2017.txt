@@ -52,6 +52,9 @@ aluno@LB121UNI:~/Área de Trabalho/av1-labso/labso/prova1-manha$ cp -i diego1.tx
 que comecem com seu nome e termina com o numeral de 1 a 3 com extensão .txt?
 Resposta:
 
+aluno@LB121UNI:~/Área de Trabalho/av1-labso/labso/prova1-manha$ ls diego[1-3].txt
+diego1.txt  diego2.txt  diego3.txt
+
 7 - Existe um arquivo chamado access.log na sua pasta log. 
 Qual é o ip que aparece no arquivo com mais frequencia e 
 qual ip que aparece no arquivo com menos frequencia?
